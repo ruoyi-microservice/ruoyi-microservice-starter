@@ -1,0 +1,39 @@
+[submodule "ruoyi-api"]
+	path = ruoyi-api
+	url = https://github.com/ruoyi-microservice/ruoyi-api.git
+[submodule "ruoyi-auth"]
+	path = ruoyi-auth
+	url = https://github.com/ruoyi-microservice/ruoyi-auth.git
+[submodule "ruoyi-common"]
+	path = ruoyi-common
+	url = https://github.com/ruoyi-microservice/ruoyi-common.git
+[submodule "ruoyi-gateway"]
+	path = ruoyi-gateway
+	url = https://github.com/ruoyi-microservice/ruoyi-gateway.git
+[submodule "ruoyi-ui"]
+	path = ruoyi-ui
+	url = https://github.com/ruoyi-microservice/ruoyi-ui.git
+[submodule "ruoyi-nacos"]
+	path = ruoyi-nacos
+	url = https://github.com/ruoyi-microservice/ruoyi-nacos.git
+[submodule "ruoyi-mysql"]
+	path = ruoyi-mysql
+	url = https://github.com/ruoyi-microservice/ruoyi-mysql.git
+[submodule "ruoyi-redis"]
+	path = ruoyi-redis
+	url = https://github.com/ruoyi-microservice/ruoyi-redis.git
+[submodule "ruoyi-modules-file"]
+	path = ruoyi-modules-file
+	url = https://github.com/ruoyi-microservice/ruoyi-modules-file.git
+[submodule "ruoyi-modules-gen"]
+	path = ruoyi-modules-gen
+	url = https://github.com/ruoyi-microservice/ruoyi-modules-gen.git
+[submodule "ruoyi-modules-job"]
+	path = ruoyi-modules-job
+	url = https://github.com/ruoyi-microservice/ruoyi-modules-job.git
+[submodule "ruoyi-modules-system"]
+	path = ruoyi-modules-system
+	url = https://github.com/ruoyi-microservice/ruoyi-modules-system.git
+[submodule "ruoyi-visual-monitor"]
+	path = ruoyi-visual-monitor
+	url = https://github.com/ruoyi-microservice/ruoyi-visual-monitor.git
